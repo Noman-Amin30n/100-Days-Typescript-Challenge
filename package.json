@@ -1,0 +1,11 @@
+{
+  "name": "100-days-typescript-challenge",
+  "version": "1.0.0",
+  "description": "In this project we will complete our 100 days typescript challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Noman Ameen",
+  "license": "ISC"
+}
